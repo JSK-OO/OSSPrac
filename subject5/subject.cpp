@@ -20,6 +20,6 @@ int main() {
     cout << "이름: " << name << endl;
     cout << "학번: " << numbers << endl;
     cout << "학과: " << major << endl;
-    cout << "학교: " << grade << endl;
+    cout << "학년: " << grade << endl;
     return 0;
 }
